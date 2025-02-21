@@ -58,4 +58,4 @@ These examples are provided under the MIT License. See the LICENSE file for deta
 If you need help with these examples or have questions about Suada:
 
 - Visit our [documentation](https://docs.suada.ai)
-- Contact us at support@suada.ai 
+- Contact us at hello@suada.ai 
