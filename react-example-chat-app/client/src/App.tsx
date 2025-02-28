@@ -21,6 +21,8 @@ function App() {
         onError: (error) => {
             console.error('Integration error:', error);
         },
+        size: 'large',
+        gridColumns: 2,
         theme: {
             primary: '#3B82F6', // Tailwind blue-500
             text: '#1F2937', // Tailwind gray-800
