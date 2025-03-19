@@ -30,6 +30,10 @@ function App() {
             error: '#EF4444', // Tailwind red-500
             fontSize: '0.875rem', // 14px
             iconSize: '2rem' // 32px
+        },
+        pagination: {
+            enabled: true,
+            itemsPerPage: 2
         }
     };
 
